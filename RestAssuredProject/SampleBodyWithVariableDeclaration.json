@@ -1,0 +1,11 @@
+{
+	"id" : "{{id}}",
+	"name" : "{{name}}",
+	"city" : "{{city}}",
+	"designation" : "{{designation}}",
+	"Address" :
+	{
+		"street" : "{{street}}",
+		"pin" : "{{pin}}"
+	}
+}
