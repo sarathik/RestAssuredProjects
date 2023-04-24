@@ -10,11 +10,16 @@ public class PostUsingPojoMethod {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		AddressInformation addressDetails = new AddressInformation();
+		addressDetails.setStreetDetails("Vengayam road");
+		addressDetails.setPincode("412547");
+		
 		BaseInformation base = new BaseInformation();
-		base.setIdValue("35");
-		base.setFname("abced");
-		base.setCity("Hyderabad");
+		base.setIdValue("67");
+		base.setFname("sdfsdfsdf");
+		base.setCity("dfsdfs");
 		base.setDesignation("Employee");
+		base.setAddressDetails(addressDetails);
 		
 		Response res=
 		given()

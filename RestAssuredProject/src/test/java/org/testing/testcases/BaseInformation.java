@@ -7,6 +7,14 @@ public class BaseInformation {
 	private String city;
 	private String designation;
 	
+	private AddressInformation addressDetails;
+		
+	public AddressInformation getAddressDetails() {
+		return addressDetails;
+	}
+	public void setAddressDetails(AddressInformation addressDetails) {
+		this.addressDetails = addressDetails;
+	}
 	
 	public String getIdValue() {
 		return idValue;
