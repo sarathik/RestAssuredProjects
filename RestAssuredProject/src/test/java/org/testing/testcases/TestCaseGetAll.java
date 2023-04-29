@@ -5,7 +5,7 @@ import static io.restassured.RestAssured.*;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
-public class TestCasesSample {
+public class TestCaseGetAll {
 
 	public static void main(String[] args) {
 			//Test Case Sample to get the records using BDD Framework
