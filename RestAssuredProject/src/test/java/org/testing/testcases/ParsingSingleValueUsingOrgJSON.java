@@ -46,7 +46,7 @@ public class ParsingSingleValueUsingOrgJSON {
 		
 		JSONObject js1 = resArray.getJSONObject(2);
 		Set<String> keyName = js1.keySet();
-		System.out.println(keyName);
+		System.out.println(keyName); //updated
 		
 		for (String string : keyName) {
 			System.out.println(js1.get(string));
