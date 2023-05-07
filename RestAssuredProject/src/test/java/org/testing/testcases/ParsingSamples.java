@@ -8,7 +8,7 @@ import io.restassured.response.Response;
 public class ParsingSamples {
 
 	public static void main(String[] args) {
-		// Get particular object value from the JSON Response using Simple JSON value
+		// Get particular object value from the JSON Response
 		
 		Response res =
 				given()
