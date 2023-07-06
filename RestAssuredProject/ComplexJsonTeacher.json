@@ -1,0 +1,16 @@
+    {
+        "teacherId": "3124",
+        "teachername": "Nagesh",
+        "subject": "Engieering",
+        "id": "421",
+        "ClassDetails": [
+            {
+                "year": "Year1",
+                "topic": "Algorithm"
+            },
+            {
+                "year": "Year1",
+                "topic": "Matrix"
+            }
+        ]
+    }
