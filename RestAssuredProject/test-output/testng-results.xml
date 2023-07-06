@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-05T22:23:30 GMT-05:00" name="Default suite" finished-at="2023-07-05T22:23:33 GMT-05:00" duration-ms="2788">
+  <suite started-at="2023-07-05T23:07:14 GMT-05:00" name="Default suite" finished-at="2023-07-05T23:07:16 GMT-05:00" duration-ms="1870">
     <groups>
     </groups>
-    <test started-at="2023-07-05T22:23:30 GMT-05:00" name="Default test" finished-at="2023-07-05T22:23:33 GMT-05:00" duration-ms="2788">
-      <class name="org.testing.rest.BDD.CreateTeacherArrayPojo">
-        <test-method signature="createTeacherByPojoArray()[pri:0, instance:org.testing.rest.BDD.CreateTeacherArrayPojo@d5b810e]" started-at="2023-07-05T22:23:30 GMT-05:00" name="createTeacherByPojoArray" finished-at="2023-07-05T22:23:33 GMT-05:00" duration-ms="2717" status="PASS">
+    <test started-at="2023-07-05T23:07:14 GMT-05:00" name="Default test" finished-at="2023-07-05T23:07:16 GMT-05:00" duration-ms="1870">
+      <class name="org.testing.rest.BDD.DeleteStudent">
+        <test-method signature="deleteStudent()[pri:0, instance:org.testing.rest.BDD.DeleteStudent@d5b810e]" started-at="2023-07-05T23:07:14 GMT-05:00" name="deleteStudent" finished-at="2023-07-05T23:07:16 GMT-05:00" duration-ms="1811" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createTeacherByPojoArray -->
-      </class> <!-- org.testing.rest.BDD.CreateTeacherArrayPojo -->
+        </test-method> <!-- deleteStudent -->
+      </class> <!-- org.testing.rest.BDD.DeleteStudent -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

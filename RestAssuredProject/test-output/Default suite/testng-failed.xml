@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.testing.rest.BDD.CreateTeacherArrayPojo">
+      <class name="org.testing.rest.BDD.AddTeacherComplexJsonDynamic">
         <methods>
-          <include name="createTeacherByPojoArray"/>
+          <include name="addT"/>
         </methods>
-      </class> <!-- org.testing.rest.BDD.CreateTeacherArrayPojo -->
+      </class> <!-- org.testing.rest.BDD.AddTeacherComplexJsonDynamic -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

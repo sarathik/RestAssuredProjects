@@ -1,9 +1,11 @@
     {
+    
         "teacherId": "3124",
-        "teachername": "Dimple",
+        "teachername": "{{name}}",
         "subject": "Engieering",
-        "id": "103",
-        "ClassDetails": [
+        "id": "{{id}}",
+        "ClassDetails": 
+        [
             {
                 "year": "Year1",
                 "topic": "Algorithm"
