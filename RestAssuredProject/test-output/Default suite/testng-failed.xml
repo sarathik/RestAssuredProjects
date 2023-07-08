@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.testing.rest.BDD.AddTeacherComplexJsonDynamic">
+      <class name="org.testing.rest.BDD.getAllValuesOfKeyname">
         <methods>
-          <include name="addT"/>
+          <include name="getAllValuesofKeyname"/>
         </methods>
-      </class> <!-- org.testing.rest.BDD.AddTeacherComplexJsonDynamic -->
+      </class> <!-- org.testing.rest.BDD.getAllValuesOfKeyname -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

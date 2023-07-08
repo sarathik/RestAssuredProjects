@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-05T23:07:14 GMT-05:00" name="Default suite" finished-at="2023-07-05T23:07:16 GMT-05:00" duration-ms="1870">
+  <suite started-at="2023-07-07T21:37:55 GMT-05:00" name="Default suite" finished-at="2023-07-07T21:37:58 GMT-05:00" duration-ms="3018">
     <groups>
     </groups>
-    <test started-at="2023-07-05T23:07:14 GMT-05:00" name="Default test" finished-at="2023-07-05T23:07:16 GMT-05:00" duration-ms="1870">
-      <class name="org.testing.rest.BDD.DeleteStudent">
-        <test-method signature="deleteStudent()[pri:0, instance:org.testing.rest.BDD.DeleteStudent@d5b810e]" started-at="2023-07-05T23:07:14 GMT-05:00" name="deleteStudent" finished-at="2023-07-05T23:07:16 GMT-05:00" duration-ms="1811" status="PASS">
+    <test started-at="2023-07-07T21:37:55 GMT-05:00" name="Default test" finished-at="2023-07-07T21:37:58 GMT-05:00" duration-ms="3018">
+      <class name="org.testing.rest.BDD.GetAllValueinObject">
+        <test-method signature="getall()[pri:0, instance:org.testing.rest.BDD.GetAllValueinObject@43dac38f]" started-at="2023-07-07T21:37:56 GMT-05:00" name="getall" finished-at="2023-07-07T21:37:58 GMT-05:00" duration-ms="2857" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- deleteStudent -->
-      </class> <!-- org.testing.rest.BDD.DeleteStudent -->
+        </test-method> <!-- getall -->
+        <test-method signature="getallDetailsinJSONfile()[pri:0, instance:org.testing.rest.BDD.GetAllValueinObject@43dac38f]" started-at="2023-07-07T21:37:58 GMT-05:00" name="getallDetailsinJSONfile" finished-at="2023-07-07T21:37:58 GMT-05:00" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallDetailsinJSONfile -->
+      </class> <!-- org.testing.rest.BDD.GetAllValueinObject -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -19,7 +19,7 @@ public class DeleteStudent {
 					.baseUri(base)
 					.contentType(ContentType.JSON)
 				.when()
-					.delete("/StudentList/84");
+					.delete("/StudentList/41");
 		System.out.println(res.statusCode());
 	}
 
